@@ -14,7 +14,7 @@
 
 <!-- Top Banner -->
 <p align="center">
-<img src="https://a.fsdn.com/con/app/proj/mobac/screenshots/SanFrancisco.png/max/max/1" alt="MOBAC Mobile Atlas Creator Banner" width="70%" />
+<img src="https://cdn.afterdawn.fi/screenshots/normal/8118.jpg" alt="MOBAC Mobile Atlas Creator Banner" width="90%" />
 
 ---
 
